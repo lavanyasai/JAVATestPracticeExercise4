@@ -36,7 +36,6 @@ Input : She sells seashells by the seashore
 Given word: se
 Output :
 Found at: 4 - 6
-
 Found at: 10 - 12
 Found at: 27 – 29
 -------------------------------------------------------------------------------------------------------------------------------------
